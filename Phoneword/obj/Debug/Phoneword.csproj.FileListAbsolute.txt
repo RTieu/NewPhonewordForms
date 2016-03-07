@@ -1,0 +1,17 @@
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.pdb
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.Phoneword.apk
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.Phoneword-Signed.apk
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\Phoneword.csprojResolveAssemblyReference.cache
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\res\values\styles.xml
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\Phoneword.dll
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\Phoneword.pdb
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\android\bin\Phoneword.Phoneword.apk
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\res\layout\main.xml
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\res\values\strings.xml
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\res\drawable\icon.png
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\R.cs.flag
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\uploadflags.txt
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\obj\Debug\Phoneword.dll.mdb
+C:\Users\rtieu\Documents\Visual Studio 2015\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
